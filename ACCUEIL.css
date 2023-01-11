@@ -1,0 +1,33 @@
+body{
+    background:rgb(24, 26, 27);
+    background-image:url(Avec\ un\ S\,\ S\ Il\ Vous\ Plaît.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+    background-size:cover;
+}
+#Titre_1{
+    color:rgb(245, 216, 179);
+    font-size:32px;
+    font-family:"Gill Sans", sans-serif;
+    font-style:italic;
+    letter-spacing:-4px;
+    display:inline-block;
+}
+.Catégories{
+    color:rgb(245, 216, 179);
+    font-size:15px;
+    font-family:"Gill Sans", sans-serif;
+    font-style:italic;
+    letter-spacing:1px;
+    display:inline-block;
+}
+#Nom_1{
+    color:rgb(245, 216, 179);
+    font-size:52px;
+    font-family:"Gill Sans", sans-serif;
+    font-style:italic;
+    letter-spacing:1px;
+    display:inline-block;
+    text-align:center;
+}

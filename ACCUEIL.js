@@ -1,0 +1,1 @@
+//alert("Notre site n'utilise pas de cookies, vous pouvez donc naviguer sans vous en soucier.")
