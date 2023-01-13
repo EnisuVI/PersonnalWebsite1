@@ -1,0 +1,41 @@
+/*CSS Général*/
+body{
+    background:rgb(24, 26, 27);
+}
+#Titre_1{
+    color:rgb(245, 216, 179);
+    font-size:32px;
+    font-family:"Gill Sans", sans-serif;
+    font-style:italic;
+    letter-spacing:-4px;
+    display:inline-block;
+}
+.Catégories{
+    color:rgb(245, 216, 179);
+    font-size:15px;
+    font-family:"Gill Sans", sans-serif;
+    font-style:italic;
+    letter-spacing:1px;
+    display:inline-block;
+    margin:20px;
+}
+/*CSS Accueil*/
+#Nom_1{
+    color:rgb(245, 216, 179);
+    font-size:52px;
+    font-family:"Gill Sans", sans-serif;
+    font-style:italic;
+    letter-spacing:1px;
+    display:inline-block;
+    text-align:center;
+}
+/*CSS Galerie*/
+
+/*CSS Biographie*/
+#Biographie{
+    color:rgb(245, 216, 179);
+    font-size:12px;
+    font-family:"Gill Sans", sans-serif;
+    font-style:bold;
+    letter-spacing:1px;
+}
